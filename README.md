@@ -32,7 +32,29 @@
 
 ###
 
-<p align="left">I'm Célian, a cybersecurity & AI engineering student from France, currently based in Chicoutimi, Québec 🇨🇦<br><br>- 🎓 Dual-degree student at IMT Mines Alès (CS & AI) and UQAC (Cybersecurity)<br>- 🔭 I'm actively looking for a cybersecurity internship (July 2026)<br>- 📚 I'm currently deepening my skills in threat intelligence, IoT security, and cloud-native architectures<br>- ⚡ In my free time I play video games, board games, and tabletop RPGs — and I'm definitely a cat person 🐱</p>
+<p align="left">I'm Célian, a cybersecurity & AI engineering student from France, currently based in Chicoutimi, Québec 🇨🇦<br><br>
+- 🎓 Dual-degree student at IMT Mines Alès (CS & AI) and UQAC (Cybersecurity)<br>
+- 🔭 Actively looking for a cybersecurity internship (July 2026) — also open to AI or dev (including Android)<br>
+- 📚 Currently deepening my skills in Cryptography and Forensics<br>
+- ⚡ In my free time I play video games, board games, and tabletop RPGs — and I'm definitely a cat person 🐱</p>
+
+###
+
+<h3 align="left">🎮 Currently Playing</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/minecraft/62B47A" height="40" alt="Minecraft" title="Minecraft" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stardew_Valley_logo.png/240px-Stardew_Valley_logo.png" height="40" alt="Stardew Valley" title="Stardew Valley" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/The_Binding_of_Isaac_-_Afterbirth%2B_Icon.png" height="40" alt="The Binding of Isaac" title="The Binding of Isaac" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Outer_Wilds_cover.jpg/220px-Outer_Wilds_cover.jpg" height="40" alt="Outer Wilds" title="Outer Wilds" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Ghost_Recon_Breakpoint_cover.jpg/220px-Ghost_Recon_Breakpoint_cover.jpg" height="40" alt="Ghost Recon" title="Ghost Recon" />
+</div>
 
 ###
 

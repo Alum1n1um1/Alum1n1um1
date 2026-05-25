@@ -45,15 +45,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/minecraft/62B47A" height="40" alt="Minecraft" title="Minecraft" />
+  <img src="https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/android-icon-192x192.png" height="40" alt="Minecraft" title="Minecraft" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stardew_Valley_logo.png/240px-Stardew_Valley_logo.png" height="40" alt="Stardew Valley" title="Stardew Valley" />
+  <img src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png" height="40" alt="Stardew Valley" title="Stardew Valley" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/The_Binding_of_Isaac_-_Afterbirth%2B_Icon.png" height="40" alt="The Binding of Isaac" title="The Binding of Isaac" />
+  <img src="https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4a/Site-favicon.ico/revision/latest?cb=20150118163504" height="40" alt="The Binding of Isaac" title="The Binding of Isaac" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Outer_Wilds_cover.jpg/220px-Outer_Wilds_cover.jpg" height="40" alt="Outer Wilds" title="Outer Wilds" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fouterwilds%2Fcomments%2F1j6wqk8%2Fa_programmed_outer_wilds_ventures_logo_i_made_for%2F&ved=0CBYQjRxqFwoTCOi6nsTi1JQDFQAAAAAdAAAAABA3&opi=89978449" height="40" alt="Outer Wilds" title="Outer Wilds" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Ghost_Recon_Breakpoint_cover.jpg/220px-Ghost_Recon_Breakpoint_cover.jpg" height="40" alt="Ghost Recon" title="Ghost Recon" />
+  <img src="https://img.shields.io/badge/Ghost_Recon-grey?style=for-the-badge" height="40" alt="Ghost Recon" title="Ghost Recon" />
 </div>
 
 ###
